@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The burthen of tyre A sermon preach'd at Pauls Crosse, by Iohn Grent, then fellow of New Colledge in
+
+1. TO HIS MVCH HONOVRED PATRON, SIR THOMAS HOLT, Knight and Baronet, the comforts of Grace here, and a Crowne of glory hereafter.
+
 #####Body#####
-The burthen of tyre A sermon preach'd at Pauls Crosse, by Iohn Grent, then fellow of New Colledge in
+
+1. THE BVRTHEN of TYRE.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
